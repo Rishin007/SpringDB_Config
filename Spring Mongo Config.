@@ -1,0 +1,5 @@
+spring.application.name=mongo-springboot
+
+spring.data.mongodb.uri=mongodb://localhost:27017/productdb
+
+server.port=9999
