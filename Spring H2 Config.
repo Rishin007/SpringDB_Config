@@ -1,6 +1,6 @@
 spring.application.name=tutorialmanagement-backend
 
-
+spring.banner.location=project banner.txt
 server.port=8888
 
 # All database information
