@@ -1,12 +1,12 @@
-spring.application.name=tutorialmanagement-backend
+spring.application.name=
 
 spring.banner.location=project banner.txt
-server.port=8888
+server.port=7777
 
 # All database information
 spring.datasource.username=sa
 spring.datasource.password=
-spring.datasource.url=jdbc:h2:mem:amitava
+spring.datasource.url=jdbc:h2:mem:rishin
 spring.datasource.driverClassName=org.h2.Driver
 
 # Keep db in HDD
