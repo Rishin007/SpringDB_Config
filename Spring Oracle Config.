@@ -1,4 +1,4 @@
-spring.application.name=springbootjpa
+spring.application.name=
 server.port=7777
 spring.banner.location=project banner.txt
 # All database information
